@@ -1,4 +1,4 @@
-const { createContext } = require("react");
+
 
 $(function () {
  // initialize canvas and context when able to
@@ -40,11 +40,11 @@ $(function () {
    
 
    // TODO 2 - Create Platforms
-   createPlatform(100, 550, 400, 20, "blue");       
-   createPlatform(600, 450, 200, 20, "green");      
-   createPlatform(900, 350, 150, 20, "purple");    
-   createPlatform(300, 250, 100, 20, "red");        
-   createPlatform(700, 150, 100, 20, "orange");     
+   createPlatform(100, 600, 400, 20, "blue");       
+   createPlatform(600, 500, 200, 20, "green");      
+   createPlatform(900, 400, 150, 20, "purple");    
+   createPlatform(300, 300, 100, 20, "red");        
+   createPlatform(700, 200, 100, 20, "orange");     
 
 
   // TODO 3 - Create Collectables
