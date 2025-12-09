@@ -40,11 +40,11 @@ $(function () {
    
 
    // TODO 2 - Create Platforms
-   createPlatform(100, 600, 400, 20, "blue");       
-   createPlatform(600, 500, 200, 20, "green");      
-   createPlatform(900, 400, 150, 20, "purple");    
-   createPlatform(300, 300, 100, 20, "red");        
-   createPlatform(700, 200, 100, 20, "orange");     
+   createPlatform(100, 600, 400, 20, "black");       
+   createPlatform(600, 500, 200, 20, "black");      
+   createPlatform(900, 400, 150, 20, "black");    
+   createPlatform(300, 300, 100, 20, "black");        
+   createPlatform(700, 200, 100, 20, "black");     
 
 
   // TODO 3 - Create Collectables
